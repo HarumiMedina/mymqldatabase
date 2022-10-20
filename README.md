@@ -1,1 +1,1 @@
-# Miprimera base de datos ejemplo
+# Miprimera base de datos
